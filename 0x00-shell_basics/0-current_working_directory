@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 #!bin/bash
 "pwd"
 
+=======
+#!/bin/bash
+pwd
+>>>>>>> 04808eaa0087d7cf02f0462107da681e13cd3481
