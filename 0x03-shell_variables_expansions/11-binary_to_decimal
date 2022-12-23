@@ -1,2 +1,2 @@
 #!/bin/bash
-gcho $((2*$BINARY))
+gcho $((2#$BINARY))
